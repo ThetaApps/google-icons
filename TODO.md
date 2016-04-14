@@ -1,1 +1,26 @@
-
+- [ ] add [product](https://carlosjeurissen.com/google-icons/material/) icons - 0/?
+- [ ] add [account](https://myaccount.google.com/) icons - 0/?
+- [ ] add [material design](https://design.google.com/icons/) icons
+  - [ ] action - 0/216
+  - [ ] alert - 0/4
+  - [ ] av - 0/80
+  - [ ] communication - 0/50
+  - [ ] content - 0/41
+  - [ ] device - 0/52
+  - [ ] editor - 0/68
+  - [ ] file - 0/14
+  - [ ] hardware - 0/48
+  - [ ] image - 0/155
+  - [ ] maps - 0/68
+  - [ ] navigation - 0/25
+  - [ ] notification - 0/53
+  - [ ] places - 0/19
+  - [ ] social - 0/30
+  - [ ] toggle - 0/8
+- [ ] add [gmail](https://mail.google.com/) and [inbox by gmail](https://inbox.google.com/) icons
+  - [ ] user interface - 0/3+
+  - [ ] categories - 0/9+
+- [ ] add [google+](https://plus.google.com/) and [hangouts](https://hangouts.google.com/) icons
+- [ ] add youtube icons
+  - [ ] user interface - 0/12+
+  - [ ] player - 1/16+
