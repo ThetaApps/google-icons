@@ -1,1 +1,1 @@
-Read the [To Do](/ThetaApps/google-icons/blob/master/TODO.md) list
+Read the [To Do](TODO.md) list
