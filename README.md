@@ -1,2 +1,1 @@
-# google-icons
-Product and UI icons from Google Inc. 
+Read the [To Do](/ThetaApps/google-icons/blob/master/TODO.md) list
